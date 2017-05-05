@@ -13,15 +13,15 @@ public class MainActivity extends AppCompatActivity {
 
     String[][] data = new String[][]{
             {"Honda, Brio, 1.2L CKD S A/T, 2015",
-                    "http://imgcdn.rajamobil.com:8080/resize2/public/media/images/databasemobil/original/2015/06/14/honda-brio-baru-mobil-dijual-jakarta-selatan-img_1-1434276927_346414789.jpg?v=250", "19 Juta", "Jakarta Selatan"},
+                    "https://gifdicoding.blob.core.windows.net/academyandroid/modul8_honda_brio.jpg","19 Juta", "Jakarta Selatan"},
             {"Honda, Jazz, RS 1.5 A/T, 2015",
-                    "http://imgcdn.rajamobil.com:8080/resize2/public/media/images/databasemobil/original/2015/06/14/honda-jazz-baru-mobil-dijual-jakarta-selatan-img_1-1434276414_1604643849.jpg?v=250", "19 Juta", "Jakarta Selatan"},
+                    "https://gifdicoding.blob.core.windows.net/academyandroid/modul8_honda_jazz.jpg","19 Juta", "Jakarta Selatan"},
             {"Mazda, Mazda2, V 1.5 M/T, 2014",
-                    "http://imgcdn.rajamobil.com:8080/resize2/public/media/images/databasemobil/original/2015/06/13/2015-05-26-IMG-20150412-160046_1432608769933.JPG?v=250", "Rp. 223.100.000", "Tangerang"},
+                    "https://gifdicoding.blob.core.windows.net/academyandroid/modul8_mazda2.jpg", "24 Juta","Tangerang"},
             {"Honda, Jazz, A 1.5 M/T, 2015",
-                    "http://imgcdn.rajamobil.com:8080/resize2/public/media/images/databasemobil/original/2015/06/05/honda-jazz-baru-mobil-dijual-jakarta-barat-img_1-1433491685_1515042903.jpg?v=250", "Rp. 207.500.000", "Jakarta Barat"},
+                    "https://gifdicoding.blob.core.windows.net/academyandroid/modul8_honda_jazz_2.png","Rp. 207.500.000", "Jakarta Barat"},
             {"Mitsubishi, Outlander, Sport PX, 2015",
-                    "http://imgcdn.rajamobil.com:8080/resize2/public/media/images/databasemobil/original/2015/06/05/mitsubishi-outlander-baru-mobil-dijual-tangerang-img_1-1433491064_1220499493.jpg?v=250", "Call", "Tangerang"}
+                    "https://gifdicoding.blob.core.windows.net/academyandroid/modul8_outlander.png","Call", "Tangerang"}
     };
 
     private ListView lvItem;
